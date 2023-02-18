@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]

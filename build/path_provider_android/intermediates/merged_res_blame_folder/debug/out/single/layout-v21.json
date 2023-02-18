@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rachanasolanki/AndroidStudioProjects/vehicle_assesment/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rachanasolanki/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]
